@@ -1,0 +1,107 @@
+
+
+.font{
+    font-family: Rasa;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 23px;
+    line-height: 28px;
+    color: #000000;
+    transform: rotate(-90deg);
+}
+.vi_line{
+    margin-top: 29px;
+    margin-left: 10px;
+}
+.very_imp{
+    margin-left: -29px;
+  
+}
+.container{
+    transform: rotateZ(0deg);
+}
+.imp_line{
+    margin-top: 52px;
+}
+.imp{
+    top: 500px;
+    width: 80px;
+    height: 116px;
+    background: #BB64EC;
+    border-radius: 0px 10px 10px 0px;
+}
+.ok_line{
+    margin-top: 52px ;
+}
+.ok{  
+    width: 80px;
+    height: 115px;
+    left: -3px;
+    top: 373px;
+    
+    background: #3EDDF1;
+    border-radius: 0px 10px 10px 0px;
+}
+.ni_line{
+    margin-top: 41px;
+}
+.not_imp{
+  
+    width: 80px;
+    height: 115px;
+    left: -4px;
+    top: 505px;
+    
+    background: #EDC074;
+    border-radius: 0px 10px 10px 0px;
+}
+
+.card{
+    margin-left: 10px;
+    height: 114px;
+    background: #FFACB7;
+    border-radius: 10px;
+    min-width: 150px;
+}
+
+.card_i{
+    background: #B590CA;
+}
+.card_m{
+    background: #97E5EF;
+}
+.card_ni{
+    background: #FFE0AC;
+}
+.card-title{
+    font-family: Rasa;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 40px;
+    color: #000000;
+}
+
+.card-content{
+    font-family: Rasa;
+    font-style: normal;
+    font-weight: 200;
+    font-size: 15px;
+    margin: 5px;
+    color: #000000;
+}
+
+
+.delete{
+    border-radius: 10px;
+    border: none;
+    background-color: none;
+    size: 30px;
+    padding: 10px;
+    margin-left: 115px;
+}
+
+.delete:hover {
+    background-color: grey;
+    color : white;
+  }

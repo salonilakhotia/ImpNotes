@@ -1,0 +1,59 @@
+.App{
+    position: absolute;
+    width: 1360px;
+    height: 620px;
+    left: 0px;
+    top: 0px;
+    /* background: rgba(32, 20, 64, 0.97); */
+    background-color: antiquewhite;
+}
+
+.navbar{
+ 
+    position: absolute;
+    width: 1393px;
+    height: 91px;
+    left: -3px;
+    top: 0px;
+
+    background: #202040
+}
+
+.nav_imp_note{
+    
+    width: 481px;
+    height: 75px;
+    text-align: center;
+    left: calc(50% - 481px/2 + 39.5px);
+    top: calc(50% - 75px/2 - 450.5px);
+    font-family: Ribeye;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 55px;
+    line-height: 75px;
+    color: #FFFFFF;
+}
+
+
+.row{
+    display: flex;
+    color: blue;
+}
+.column{
+    display: inline;
+}
+
+/* Dashboard */
+
+.notes{
+    position: absolute;
+    width: 80px;
+    height: 115px;
+    left: -3px;
+    top: 108px;
+    background: #EA7786;
+    border-radius: 0px 10px 10px 0px;
+}
+.login{
+    background-color: ;
+}
